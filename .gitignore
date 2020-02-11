@@ -1,0 +1,20 @@
+# Logs
+*.log
+npm-debug.log
+
+# Runtime data
+tmp
+build
+dist
+
+# Dependency directory
+node_modules
+
+# Editor config
+.vscode
+
+# OSX
+.DS_Store
+
+# package
+*tgz

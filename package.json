@@ -1,0 +1,49 @@
+{
+    "name": "react-native-multiselect-sortable-flatlist-2",
+    "version": "2.0.0",
+    "description": "A React Native FlatList that is sortable with the ability to select multiple components",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write **/*.js"
+    },
+    "author": "Yoeven D Khemlani",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https: //github.com/yoeven/react-native-multiselect-sortable-flatlist.git"
+    },
+    "keywords": [
+        "react-native",
+        "react-native-component",
+        "react",
+        "react native",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "multiselect-sortable-flatlist",
+        "multiselect",
+        "sortable",
+        "flatlist",
+        "draggable",
+        "sort",
+        "list",
+        "dynamic"
+    ],
+    "homepage": "https://github.com/yoeven/react-native-multiselect-sortable-flatlist",
+    "eslintConfig": {
+        "extends": "universe/native"
+    },
+    "dependencies": {
+        "react-native-draggable-flatlist": "^2.2.0"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^2.9.0",
+        "@typescript-eslint/parser": "^2.9.0",
+        "eslint": "^6.7.1",
+        "eslint-config-universe": "^2.0.0",
+        "metro-react-native-babel-preset": "^0.57.0",
+        "prettier": "^1.19.1"
+    }
+}
