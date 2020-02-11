@@ -11,7 +11,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https: //github.com/yoeven/react-native-multiselect-sortable-flatlist.git"
+        "url": "git+https://github.com/yoeven/react-native-multiselect-sortable-flatlist-2.git"
     },
     "keywords": [
         "react-native",
@@ -31,7 +31,7 @@
         "list",
         "dynamic"
     ],
-    "homepage": "https://github.com/yoeven/react-native-multiselect-sortable-flatlist",
+    "homepage": "https://github.com/yoeven/react-native-multiselect-sortable-flatlist-2",
     "eslintConfig": {
         "extends": "universe/native"
     },

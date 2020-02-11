@@ -4618,7 +4618,7 @@ react-native-gesture-handler@~1.5.0:
 
 react-native-multiselect-sortable-flatlist-2@../react-native-multiselect-sortable-flatlist-2-2.0.0.tgz:
   version "2.0.0"
-  resolved "../react-native-multiselect-sortable-flatlist-2-2.0.0.tgz#2562e2527581f20d690890cf0767d7b068bc12e7"
+  resolved "../react-native-multiselect-sortable-flatlist-2-2.0.0.tgz#37c2a8c48c094d04048179f831cb0c9a4de66508"
   dependencies:
     react-native-draggable-flatlist "^2.2.0"
 

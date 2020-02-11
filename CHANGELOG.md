@@ -1,12 +1,7 @@
+﻿# CHANGELOG
 
-# CHANGELOG
+### 2.0.0
 
-### 1.0.3
-
- - Release of initial component
- - Added README documentation
- - Added linting and prettier
- - Added CHANGELOG and LICENSE
- - Sorting Functionality
- - Selecting Functionality
- - Sorting built on [react-native-draggable-flatlist](https://github.com/computerjazz/react-native-draggable-flatlist)
+- Release of initial component
+- Updated README documentation
+- Updated to ^2.0.0 of [react-native-draggable-flatlist](https://github.com/computerjazz/react-native-draggable-flatlist)
