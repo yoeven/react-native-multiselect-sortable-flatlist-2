@@ -232,7 +232,7 @@ All [React Native Draggable FlatList](https://github.com/computerjazz/react-nati
 | item | The item from `data` being rendered. | Object |
 | index | The index corresponding to this item in the `data` array. | Number |
 | selected | If selection is active on the item. | Bool |
-| drag | Call this to start the dragging process on the current item. The item will follow till  | Func |
+| drag | Call this to start the dragging process on the current item. | Func |
 | isDragging | If item is currently being dragged. | Bool|
 | reverseSelection | Call this to reverse the current selection of the item. If selected, item will become unselected and if unselected, item will become selected. | Func |
 
