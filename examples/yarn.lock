@@ -3091,9 +3091,9 @@ hoist-non-react-statics@^2.3.1:
   integrity sha512-rqcy4pJo55FTTLWt+bU8ukscqHeE/e9KWvsOW2b/a3afxQZhwkQdT1rPPCJ0rYXdj4vNcasY8zHTH+jF/qStxw==
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 http-errors@~1.7.2:
   version "1.7.3"
@@ -4616,9 +4616,10 @@ react-native-gesture-handler@~1.5.0:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
-react-native-multiselect-sortable-flatlist-2@../react-native-multiselect-sortable-flatlist-2-2.0.0.tgz:
+react-native-multiselect-sortable-flatlist-2@^2.0.0:
   version "2.0.0"
-  resolved "../react-native-multiselect-sortable-flatlist-2-2.0.0.tgz#37c2a8c48c094d04048179f831cb0c9a4de66508"
+  resolved "https://registry.yarnpkg.com/react-native-multiselect-sortable-flatlist-2/-/react-native-multiselect-sortable-flatlist-2-2.0.0.tgz#b10e4a41035c478e74d4d5a37028bd102ff75cfb"
+  integrity sha512-X8wRSbh5eVLk2bEYwFGCKkk2J0AYcOd9uERFxVKVmGBvKhwTfzjQG4HfslnSfZwLPYreiNSIYKAs4DIMLzE6ew==
   dependencies:
     react-native-draggable-flatlist "^2.2.0"
 
