@@ -4616,9 +4616,10 @@ react-native-gesture-handler@~1.5.0:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
-react-native-multiselect-sortable-flatlist-2@../react-native-multiselect-sortable-flatlist-2-2.0.0.tgz:
+react-native-multiselect-sortable-flatlist-2@^2.0.0:
   version "2.0.0"
-  resolved "../react-native-multiselect-sortable-flatlist-2-2.0.0.tgz#37c2a8c48c094d04048179f831cb0c9a4de66508"
+  resolved "https://registry.yarnpkg.com/react-native-multiselect-sortable-flatlist-2/-/react-native-multiselect-sortable-flatlist-2-2.0.0.tgz#b10e4a41035c478e74d4d5a37028bd102ff75cfb"
+  integrity sha512-X8wRSbh5eVLk2bEYwFGCKkk2J0AYcOd9uERFxVKVmGBvKhwTfzjQG4HfslnSfZwLPYreiNSIYKAs4DIMLzE6ew==
   dependencies:
     react-native-draggable-flatlist "^2.2.0"
 
@@ -5344,9 +5345,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
